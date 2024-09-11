@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div "result">Launch Browser (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;selenim1&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;srnagar1&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Qedge31&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000005147      Supplier-00000005147]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;selenim41&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;srnagar71&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Qedge351&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000005148      Supplier-00000005148]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;selenim143&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;srnagar132&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Qedge361&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000005149      Supplier-00000005149]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;selenim132&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;srnagar51&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Qedge371&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000005150      Supplier-00000005150]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;selenim45&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;srnagar51&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;Qedge317&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[Supplier-00000005151      Supplier-00000005151]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Verify Supplier Number (PASSED : 4s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-09-09T22:10:58 IST" name="Default suite" finished-at="2024-09-09T22:12:12 IST" duration-ms="74271">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@239a307b]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2024-09-09T22:10:58 IST" name="Default test" finished-at="2024-09-09T22:12:12 IST" duration-ms="74271">
+      <class name="testRunner.Runner">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:testRunner.Runner@239a307b]" started-at="2024-09-09T22:10:58 IST" name="setUpClass" finished-at="2024-09-09T22:10:58 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@239a307b]" started-at="2024-09-09T22:10:59 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-09T22:11:14 IST" duration-ms="15873" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Launch Browser (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;selenim1&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;srnagar1&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Qedge31&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000005147      Supplier-00000005147]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@239a307b]" started-at="2024-09-09T22:11:14 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-09T22:11:29 IST" duration-ms="14807" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;selenim41&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;srnagar71&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Qedge351&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000005148      Supplier-00000005148]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@239a307b]" started-at="2024-09-09T22:11:29 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-09T22:11:43 IST" duration-ms="14136" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;selenim143&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;srnagar132&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Qedge361&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000005149      Supplier-00000005149]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@239a307b]" started-at="2024-09-09T22:11:43 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-09T22:11:58 IST" duration-ms="14276" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;selenim132&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;srnagar51&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Qedge371&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000005150      Supplier-00000005150]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify Supplier Number (PASSED : 3s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper,cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.Runner@239a307b]" started-at="2024-09-09T22:11:58 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2024-09-09T22:12:12 IST" duration-ms="14566" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div "result">Launch Browser (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Launch Url (PASSED : 1s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;selenim45&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;srnagar51&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;Qedge317&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[Supplier-00000005151      Supplier-00000005151]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Verify Supplier Number (PASSED : 4s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Close Browser (PASSED : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.Runner@239a307b]" started-at="2024-09-09T22:12:12 IST" name="tearDownClass" finished-at="2024-09-09T22:12:12 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.Runner -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

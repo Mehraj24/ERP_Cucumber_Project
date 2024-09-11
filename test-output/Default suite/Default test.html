@@ -1,0 +1,290 @@
+<html>
+<head>
+<title>TestNG:  Default test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Default test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>5/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Mon Sep 09 22:10:58 IST 2024</td>
+</tr>
+<tr><td>Total time:</td><td>74 seconds (74271 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td><b>Attribute(s)</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testRunner.Runner.runScenario()'><b>runScenario</b><br>Test class: testRunner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "", ""<br/>
+<a href="#Output-424489630" onClick='toggleBox("Output-424489630", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-424489630" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-424489630">
+<div "result">Launch Browser (PASSED : 1s)</div><br/>
+<div "result">Launch Url (PASSED : 1s)</div><br/>
+<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div><br/>
+<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div><br/>
+<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;selenim41&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;srnagar71&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Qedge351&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+Supplier-00000005148      Supplier-00000005148<br/>
+<div "result">Verify Supplier Number (PASSED : 3s)</div><br/>
+<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Close Browser (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testRunner.Runner@239a307b</td></tr>
+<tr>
+<td title='testRunner.Runner.runScenario()'><b>runScenario</b><br>Test class: testRunner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "", ""<br/>
+<a href="#Output-964895360" onClick='toggleBox("Output-964895360", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-964895360" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-964895360">
+<div "result">Launch Browser (PASSED : 1s)</div><br/>
+<div "result">Launch Url (PASSED : 1s)</div><br/>
+<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div><br/>
+<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div><br/>
+<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;selenim132&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;srnagar51&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Qedge371&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+Supplier-00000005150      Supplier-00000005150<br/>
+<div "result">Verify Supplier Number (PASSED : 3s)</div><br/>
+<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Close Browser (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testRunner.Runner@239a307b</td></tr>
+<tr>
+<td title='testRunner.Runner.runScenario()'><b>runScenario</b><br>Test class: testRunner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "", ""<br/>
+<a href="#Output-2005762793" onClick='toggleBox("Output-2005762793", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2005762793" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2005762793">
+<div "result">Launch Browser (PASSED : 3s)</div><br/>
+<div "result">Launch Url (PASSED : 1s)</div><br/>
+<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div><br/>
+<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div><br/>
+<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;selenim1&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;srnagar1&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Qedge31&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+Supplier-00000005147      Supplier-00000005147<br/>
+<div "result">Verify Supplier Number (PASSED : 3s)</div><br/>
+<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Close Browser (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>testRunner.Runner@239a307b</td></tr>
+<tr>
+<td title='testRunner.Runner.runScenario()'><b>runScenario</b><br>Test class: testRunner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "", ""<br/>
+<a href="#Output-592207425" onClick='toggleBox("Output-592207425", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-592207425" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-592207425">
+<div "result">Launch Browser (PASSED : 1s)</div><br/>
+<div "result">Launch Url (PASSED : 1s)</div><br/>
+<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div><br/>
+<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div><br/>
+<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;selenim143&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;srnagar132&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Qedge361&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+Supplier-00000005149      Supplier-00000005149<br/>
+<div "result">Verify Supplier Number (PASSED : 3s)</div><br/>
+<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Close Browser (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testRunner.Runner@239a307b</td></tr>
+<tr>
+<td title='testRunner.Runner.runScenario()'><b>runScenario</b><br>Test class: testRunner.Runner<br>Test method: Runs Cucumber Scenarios<br>Parameters: "", ""<br/>
+<a href="#Output-2036295297" onClick='toggleBox("Output-2036295297", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2036295297" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2036295297">
+<div "result">Launch Browser (PASSED : 1s)</div><br/>
+<div "result">Launch Url (PASSED : 1s)</div><br/>
+<div "result">Wait for Username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter username with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;username&#x27;]&quot; and &quot;admin&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter password with &quot;xpath&quot; and &quot;&#x2F;&#x2F;input[@id=&#x27;password&#x27;]&quot; and &quot;master&quot; (PASSED : 0s)</div><br/>
+<div "result">Click login button with &quot;id&quot; and &quot;btnsubmit&quot; (PASSED : 0s)</div><br/>
+<div "result">wait for logout link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Supplier link with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[contains(text(),&#x27;Suppliers&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Add icon with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Add icon button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;span[@data-caption=&#x27;Add&#x27;])[1]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Capture Supplier Number with &quot;name&quot; and &quot;x_Supplier_Number&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;selenim45&quot; with &quot;id&quot; and &quot;x_Supplier_Name&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;srnagar51&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Address&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Hyderabad&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_City&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;India&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Country&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;Qedge317&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Contact_Person&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6547895412&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Phone_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;test@gmail.com&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x__Email&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;6321456987&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Mobile_Number&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Enter in &quot;New Supplier Adding&quot; with &quot;xpath&quot; and &quot;&#x2F;&#x2F;*[@id=&#x27;x_Notes&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">click add button with &quot;id&quot; and &quot;btnAction&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for Confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click confirm ok button with &quot;xpath&quot; and &quot;&#x2F;&#x2F;button[normalize-space()=&#x27;OK!&#x27;]&quot; (PASSED : 0s)</div><br/>
+<div "result">Wait for alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+<div "result">Click Alert ok button with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;button[starts-with(text(),&#x27;OK&#x27;)])[6]&quot; (PASSED : 0s)</div><br/>
+Supplier-00000005151      Supplier-00000005151<br/>
+<div "result">Verify Supplier Number (PASSED : 4s)</div><br/>
+<div "result">click logout with &quot;xpath&quot; and &quot;(&#x2F;&#x2F;a[starts-with(text(),&#x27; Logout&#x27;)])[2]&quot; (PASSED : 0s)</div><br/>
+<div "result">Close Browser (PASSED : 0s)</div><br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>testRunner.Runner@239a307b</td></tr>
+</table><p>
+</body>
+</html>
